@@ -1,0 +1,18 @@
+{
+    "token": "Met ton token (si tu c'est pas ce que c'est renseigne toi sur youtube).",
+    "password": "Le modpass de ton compte discord (pas obliger mais si tu veux que tous les commandes fonctionnent bien tu dois le mettre).",
+    "prefix": "le prefix du selfbot pour éxecuter les commandes.",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": false,
+
+    "stream_url": "https://twitch.tv/katarino",
+    "tts_language": "fr",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}

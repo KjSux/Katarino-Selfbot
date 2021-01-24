@@ -6,3 +6,6 @@ Pour commencez allez sur le serveur Katarino Tools et suivez les instructions le
 
 # Python 3.8.7 (Prennez Windows Installer 64 bit our 32 bit pour ceux qui ont 32 bit)
 http://python.org/downloads/release/python-387/
+
+# Important
+Je ne suis pas responsable de tout acte illégal effectué à l'aide de ce script. Utilisez-le sous votre propre responsabilité.

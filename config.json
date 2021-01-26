@@ -1,7 +1,7 @@
 {
     "token": "Met ton token (si tu c'est pas ce que c'est renseigne toi sur youtube).",
     "password": "Le modpass de ton compte discord (pas obliger mais si tu veux que tous les commandes fonctionnent bien tu dois le mettre).",
-    "prefix": "le prefix du selfbot pour éxecuter les commandes.",   
+    "prefix": "Lee prefix du selfbot pour éxecuter les commandes.",   
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,

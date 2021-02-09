@@ -9,3 +9,4 @@ http://python.org/downloads/release/python-387/
 
 # Important
 Je ne suis pas responsable de tout acte illégal effectué à l'aide de ce script. Utilisez-le sous votre propre responsabilité.
+Et ceci n'est pas vraiment un projet github modfiable (C'est juste pour usage de lien d'installation) sinon je l'aurai pas obfusqué !

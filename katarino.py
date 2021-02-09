@@ -1,4 +1,4 @@
-# Le code du selfbot a été obfusquer pour des raisons de securiter veuillez retournez dans votre dossier !
+# Le code du selfbot a été obfusquer pour des raisons de sécurité veuillez retournez dans votre dossier !
 # Si vous essaye de deobfusquer etc ... c'est un blacklist permanent ! et c'est pas gentil quoi !
 
 from pytransform import pyarmor_runtime
